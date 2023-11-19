@@ -13,7 +13,7 @@ export default function GPTCard(gptInfo: GPTHub.GPTInfo) {
   return (
     <div className="card card-compact lg:card-side shadow-md transition duration-500 ease-in-out shadow-slate-500/30">
       <figure className="pl-5 w-[100px] min-w-[100px] max-w-[100px] m-auto mt-4 mb-2 lg:mt-2">
-        <LazyLoadImage className="rounded-full" src={logo ? gptLogo(logo) : '/gpthub.png'} alt={name} />
+        <LazyLoadImage className="rounded-full" src={logo ? gptLogo(logo) : '/freegpts.png'} alt={name} />
       </figure>
       <div className="card-body">
         <h2 className="card-title justify-between">{name}</h2>

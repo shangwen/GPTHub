@@ -1,8 +1,8 @@
 {
   "name": "gpthub",
   "private": true,
-  "author": "lencx <cxin1314@gmail.com>",
-  "homepage": "https://github.com/lencx/gpthub",
+  "author": "shangwen <kevin.shangwen@gmail.com>",
+  "homepage": "https://github.com/shangwen/GPTHub",
   "version": "0.0.0",
   "type": "module",
   "scripts": {

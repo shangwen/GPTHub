@@ -20,9 +20,9 @@ export default function GPTTools({ data, size = 'md' }: GPTToolsProps) {
             'badge-sm': size === 'sm',
             'badge-lg': size === 'lg',
             'badge-md': size === 'md',
-            'badge-primary': item === 1,
-            'badge-accent': item === 2,
-            'badge-secondary': item === 3,
+            'inline-flex items-center rounded-md bg-blue-50 px-2 py-1 text-xs font-medium text-blue-700 ring-10 ring-inset ring-blue-700/10': item === 1,
+            'inline-flex items-center rounded-md bg-purple-50 px-2 py-1 text-xs font-medium text-purple-700 ring-10 ring-inset ring-purple-700/10': item === 2,
+            'inline-flex items-center rounded-md bg-pink-50 px-2 py-1 text-xs font-medium text-pink-700 ring-10 ring-inset ring-pink-700/10': item === 3,
           })}>
             {el}
           </div>
