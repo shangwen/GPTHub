@@ -41,7 +41,7 @@ export default function BaseLayout() {
       <header className="fixed bg-white px-4 lg:px-8 top-0 z-30 flex h-16 w-full justify-between items-center bg-opacity-90 backdrop-blur transition-all duration-100 [transform:translate3d(0,0,0)] shadow-sm dark:shadow-slate-500/20">
         <img
           alt="GPTHub"
-          className="w-10 h-10 select-none" src="/freegpts.png"
+          className="w-25 h-10 select-none" src="/freeGPTs-header.png"
           onClick={() => navigate('/')}
         />
         <div className="flex items-center gap-3">
@@ -72,9 +72,9 @@ export default function BaseLayout() {
           {/*    onClick={() => navigate('/')}*/}
           {/*  />*/}
           {/*</a>*/}
-          <a href="https://www.producthunt.com/posts/gpthub?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-gpthub" target="_blank">
+          <a href="https://www.producthunt.com/posts/freegpts?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-freegpts" target="_blank">
             <img
-              src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=424710&theme=light" alt="GPTHub | Product Hunt"
+              src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=426274&theme=light" alt="FreeGPTs | Product Hunt"
               className="w-[140px]"
             />
           </a>
