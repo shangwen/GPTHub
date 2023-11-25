@@ -4,8 +4,8 @@
 
 🔍 Discover the Best in Custom GPT at OpenAI's GPT Store – Your Adventure Begins Here!
 
-`<a href="https://www.producthunt.com/posts/freegpts?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-freegpts" target="_blank">`
-`<img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=426274&theme=light" alt="FreeGPTs | Product Hunt"               className="w-[140px]"/></a>`
+<a href="https://www.producthunt.com/posts/freegpts?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-freegpts" target="_blank">
+<img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=426274&theme=light" alt="FreeGPTs | Product Hunt"               className="w-[140px]"/></a>
 
 > **Note:**
 > Please exercise caution when using data obtained from the internet. Ensure the protection of your personal information to avoid falling prey to scams.
